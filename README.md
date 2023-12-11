@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Nathan, I do coding
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helloworld-sys)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **helloworld-sys/helloworld-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
