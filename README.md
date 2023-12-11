@@ -1,8 +1,11 @@
 ### Hi there 👋
+![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner](https://github.com/helloworld-sys/helloworld-sys/assets/144865005/9b134a9f-0a68-4aa1-83b6-f9c5f691a23c)
 
 I'm Nathan, I do coding
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helloworld-sys)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **helloworld-sys/helloworld-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
