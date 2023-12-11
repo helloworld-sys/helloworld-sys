@@ -1,8 +1,8 @@
+### Hi there 👋, my name is Nathan
+#### Full Stack Developer
 
 ![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner](https://github.com/helloworld-sys/helloworld-sys/assets/144865005/9b134a9f-0a68-4aa1-83b6-f9c5f691a23c)
 
-### Hi there 👋, my name is Nathan
-#### Full Stack Developer
 Passionate full-stack developer with a proven track record in delivering innovative solutions. Proficient in front-end technologies (HTML5, CSS3, React.js) and back-end development using Node.js and Python. Experienced in database design (SQL, MongoDB) and adept at creating efficient, scalable applications. Skilled in Git, RESTful API development, and CI/CD pipelines. Experienced in collaborating with cross-functional teams. Committed to continuous learning and contributing to cutting-edge projects.
 
 Skills: REACT / JS / HTML / CSS
