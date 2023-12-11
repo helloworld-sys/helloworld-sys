@@ -1,3 +1,4 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=helloworld-sys&label=Profile%20views&color=0e75b6&style=flat" alt="helloworld-sys" /> </p>
 ### Hi there 👋, my name is Nathan
 #### Full Stack Developer
 
@@ -12,9 +13,7 @@
 <br/>
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=helloworld-sys&label=Profile%20views&color=0e75b6&style=flat" alt="helloworld-sys" /> </p>
-
-- 🔭 Building a Website for a local Business **International Global**
+🔭 Building a Website for a local Business **International Global**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
