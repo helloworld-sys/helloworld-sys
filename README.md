@@ -1,6 +1,5 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=helloworld-sys&label=Profile%20views&color=0e75b6&style=flat" alt="helloworld-sys" /> </p>
-### Hi there 👋, my name is Nathan
-#### Full Stack Developer
+<h3>Hi there 👋, my name is Nathan He/Him </h3>
 
 ![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner](https://github.com/helloworld-sys/helloworld-sys/assets/144865005/9b134a9f-0a68-4aa1-83b6-f9c5f691a23c)
 <br/>
