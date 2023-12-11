@@ -4,14 +4,13 @@
 ![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner](https://github.com/helloworld-sys/helloworld-sys/assets/144865005/9b134a9f-0a68-4aa1-83b6-f9c5f691a23c)
 <br/>
 <br/>
-### Passionate full-stack developer 
+<h3 align=center> Passionate full-stack developer
 <br/>
 <br/>
 #### Proficient in front-end technologies (HTML5, CSS3, React.js) and back-end development using Node.js and Python. Experienced in database design (SQL, MongoDB) and adept at creating efficient, scalable applications. Skilled in Git, RESTful API development, and CI/CD pipelines. Experienced in collaborating with cross-functional teams. Committed to continuous learning and contributing to cutting-edge projects.
 <br/>
 <br/>
 <br/>
-<h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helloworld-sys&label=Profile%20views&color=0e75b6&style=flat" alt="helloworld-sys" /> </p>
 
