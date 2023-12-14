@@ -11,8 +11,7 @@
 <br/>
 <br/>
 <br/>
-
-🔭 Building a Website for a local Business **International Global**
+<h2>🔭 Building a Website for a local Business <b>International Global</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
