@@ -7,7 +7,7 @@
 <h3 align=center> Passionate full-stack developer
 <br/>
 <br/>
-#### Proficient in front-end technologies (HTML5, CSS3, React.js) and back-end development using Node.js and Python. Experienced in database design (SQL, MongoDB) and adept at creating efficient, scalable applications. Skilled in Git, RESTful API development, and CI/CD pipelines. Experienced in collaborating with cross-functional teams. Committed to continuous learning and contributing to cutting-edge projects. 
+  Proficient in front-end technologies (HTML5, CSS3, React.js) and back-end development using Node.js and Python. Experienced in database design (SQL, MongoDB) and adept at creating efficient, scalable applications. Skilled in Git, RESTful API development, and CI/CD pipelines. Experienced in collaborating with cross-functional teams. Committed to continuous learning and contributing to cutting-edge projects. 
 <br/>
 <br/>
 <br/>
